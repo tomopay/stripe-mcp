@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.1",
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "@tomopay/gateway": "^0.1.1"
   },
   "repository": {
     "type": "git",
